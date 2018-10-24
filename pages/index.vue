@@ -53,6 +53,12 @@ export default {
   text-align: center;
 }
 
+.container p {
+  justify-content: left;
+  align-items: left;
+  text-align: left;
+}
+
 .title {
   font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
