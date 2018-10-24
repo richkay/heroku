@@ -3,7 +3,7 @@
     <div>
       <logo/>
       <h1 class="title">
-        heroku
+        Devisme
       </h1>
       <h2 class="subtitle">
         Heroku Demo with Nuxt
