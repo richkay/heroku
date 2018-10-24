@@ -6,7 +6,7 @@
         heroku
       </h1>
       <h2 class="subtitle">
-        My transcendent Nuxt.js project
+        Heroku Demo with Nuxt
       </h2>
       <div class="links">
         <a
