@@ -8,6 +8,17 @@
       <h2 class="subtitle">
         Heroku Demo with Nuxt
       </h2>
+      <p>
+         <i>Generate Laravel RestFull API</i> 
+         <ul>
+            <li><b>Model & DB</b></li>
+            <li>Generate Model</li>
+            <li>Generate Migration</li>
+            <li>Generate Seeder</li>
+            <li><b>Controller & Resource</b></li>
+            <li>Generate Controller</li>
+         </ul>
+      </p>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
