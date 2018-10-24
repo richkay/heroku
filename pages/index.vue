@@ -11,12 +11,32 @@
       <p>
          <i>Generate Laravel RestFull API</i> 
          <ul>
-            <li><b>Model & DB</b></li>
-            <li>Generate Model</li>
-            <li>Generate Migration</li>
-            <li>Generate Seeder</li>
-            <li><b>Controller & Resource</b></li>
-            <li>Generate Controller</li>
+            <li><b>Model & DB</b>
+              <ul>
+                <li>Generate Model</li>
+                <li>Generate Migration</li>
+                <li>Generate Seeder</li>
+              </ul>
+            </li>
+            
+            <li><b>Controller & Resource</b>
+              <ul>
+                  <li>Generate Controller</li>
+                  <li>Generate ResourceCollection</li>
+                  <li>Generate Resource</li>
+                  <li>Generate Route Api</li>
+                  <li>Generate Route Api Documentation</li>
+              </ul>
+            </li>
+
+            <li><b>View</b>
+              <ul>
+                  <li>Select View VUE or Blade</li>
+                  <li>Design View Base</li>
+                  <li>Generate View</li>
+              </ul>
+            </li>
+            
          </ul>
       </p>
       <div class="links">
