@@ -6,7 +6,7 @@
         Devisme
       </h1>
       <h2 class="subtitle">
-        Heroku Demo with Nuxt
+        Generate Your Algorithm
       </h2>
       <p>
          <i>Generate Laravel RestFull API</i> 
