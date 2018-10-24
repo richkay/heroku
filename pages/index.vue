@@ -36,6 +36,39 @@
                   <li>Generate View</li>
               </ul>
             </li>
+
+            <li><b>Module addOns</b>
+              <ul>
+                  <li>User Manager ( ACL )</li>
+                  <li>E-commerce</li>
+                  <li>Booking widget</li>
+                  <li>Booking Manager</li>
+                  <li>Filemanager</li>
+                  <li>Gallery</li>
+                  <li>Social Media Share</li>
+                  <li>Social Media Auth</li>
+                  <li>CRM</li>
+                  <li>Invoice Manager</li>
+                  <li>Accounting</li>
+                  <li>Payroll</li>
+                  <li>HRM</li>
+                  <li>Payment Gateway integration
+                    <ul>
+                        <li>Midtrans</li>
+                        <li>Doku</li>
+                        <li>Paypall</li>
+                        <li>Stripe</li>
+                    </ul>
+                  </li>
+                  <li>Shipping integration
+                    <ul>
+                        <li>JNE</li>
+                        <li>DHL</li>
+                        <li>Fedex</li>
+                    </ul>
+                  </li>
+              </ul>
+            </li>
             
          </ul>
       </p>
